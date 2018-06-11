@@ -49,3 +49,8 @@ var_dump($x);
 $x = 5985;
 var_dump($x);
 ?>  
+
+<?php
+$text="This is test";
+echo $text;
+?>
